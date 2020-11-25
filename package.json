@@ -1,0 +1,32 @@
+{
+  "name": "vue-cli-plugin-midway-hooks",
+  "version": "0.1.0",
+  "description": "Provide midway hooks dev pack options to vue-cli",
+  "keywords": [
+    "vue3",
+    "vuejs3",
+    "vue3-cli",
+    "midway",
+    "faas",
+    "hooks"
+  ],
+  "homepage": "https://github.com/midwayjs/vue-cli-plugin-faas/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/midwayjs/vue-cli-plugin-faas/issues",
+    "email": "524404942@qq.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "yincoco",
+    "email": "524404942@qq.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/midwayjs/vue-cli-plugin-faas"
+  },
+  "dependencies": {
+    "@midwayjs/faas-dev-pack": "^1.2.17",
+    "@midwayjs/hooks-loader": "0.x.x"
+  }
+}
