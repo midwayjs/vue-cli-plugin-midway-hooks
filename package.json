@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-midway-hooks",
-  "version": "0.1.0",
+  "version": "1.0.0-canary.0",
   "description": "Provide midway hooks dev pack options to vue-cli",
   "keywords": [
     "vue3",
